@@ -11,6 +11,14 @@
 
 Welcome to one of the most extensive and dynamic collections of Generative AI (GenAI) agent tutorials and implementations available today. This repository serves as a comprehensive resource for learning, building, and sharing GenAI agents, ranging from simple conversational bots to complex, multi-agent systems.
 
+## 🏆 Sponsors
+
+<div align="center">
+
+<a href="https://coderabbit.link/nir"><img src="images/coderabbit_Light_Type_Mark_Orange.png" width="20%" height="20%" alt="CodeRabbit" /></a>
+
+</div>
+
 ## 📫 Stay Updated!
 
 <div align="center">
